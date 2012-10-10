@@ -1,4 +1,4 @@
-Workbox
+Homebook
 =======
 
-Homeschool Workbox
+Homebook Homeschool Assistant
